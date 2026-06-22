@@ -1,13 +1,4 @@
-const header = document.querySelector("[data-header]");
 const revealItems = document.querySelectorAll(".reveal");
-
-const updateHeader = () => {
-  if (!header) return;
-  header.classList.toggle("is-scrolled", window.scrollY > 20);
-};
-
-updateHeader();
-window.addEventListener("scroll", updateHeader, { passive: true });
 
 if ("IntersectionObserver" in window) {
   const observer = new IntersectionObserver(
