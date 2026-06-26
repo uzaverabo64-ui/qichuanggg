@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Business consulting workspace</title>
+  <desc id="desc">Abstract business consulting workspace with charts and planning panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1f3a"/>
+      <stop offset="0.55" stop-color="#123b75"/>
+      <stop offset="1" stop-color="#1769e0"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#dcecff" stop-opacity="0.82"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <circle cx="1120" cy="150" r="230" fill="#61a8ff" opacity="0.18"/>
+  <circle cx="960" cy="780" r="360" fill="#8bd3ff" opacity="0.12"/>
+  <g transform="translate(730 175)">
+    <rect width="500" height="340" rx="28" fill="url(#card)" opacity="0.96"/>
+    <rect x="42" y="52" width="190" height="22" rx="11" fill="#1769e0"/>
+    <rect x="42" y="100" width="410" height="18" rx="9" fill="#9cb7d8"/>
+    <rect x="42" y="137" width="350" height="18" rx="9" fill="#c0d1e6"/>
+    <rect x="42" y="212" width="68" height="78" rx="12" fill="#1769e0" opacity="0.82"/>
+    <rect x="132" y="180" width="68" height="110" rx="12" fill="#1c8b66" opacity="0.88"/>
+    <rect x="222" y="142" width="68" height="148" rx="12" fill="#0c3f92" opacity="0.88"/>
+    <path d="M334 276c34-72 66-92 118-154" fill="none" stroke="#1769e0" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="452" cy="122" r="16" fill="#1769e0"/>
+  </g>
+  <g transform="translate(820 570)">
+    <rect width="320" height="150" rx="24" fill="#ffffff" opacity="0.9"/>
+    <circle cx="62" cy="76" r="34" fill="#1769e0" opacity="0.16"/>
+    <path d="M46 76l12 12 24-30" fill="none" stroke="#1769e0" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="120" y="48" width="150" height="16" rx="8" fill="#0c3f92"/>
+    <rect x="120" y="82" width="118" height="14" rx="7" fill="#9cb7d8"/>
+  </g>
+</svg>

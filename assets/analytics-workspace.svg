@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Advertising analytics workspace</title>
+  <desc id="desc">Abstract analytics dashboard with campaign charts and compliance checklist.</desc>
+  <rect width="1200" height="900" fill="#eef6ff"/>
+  <rect x="110" y="90" width="980" height="720" rx="42" fill="#ffffff"/>
+  <rect x="165" y="150" width="320" height="34" rx="17" fill="#102033"/>
+  <rect x="165" y="216" width="870" height="2" fill="#dce6f1"/>
+  <g transform="translate(165 270)">
+    <rect width="260" height="360" rx="26" fill="#e8f1ff"/>
+    <rect x="38" y="42" width="154" height="18" rx="9" fill="#1769e0"/>
+    <rect x="38" y="92" width="190" height="16" rx="8" fill="#9cb7d8"/>
+    <rect x="38" y="130" width="160" height="16" rx="8" fill="#bfd1e7"/>
+    <circle cx="82" cy="254" r="56" fill="#1769e0" opacity="0.18"/>
+    <path d="M55 255l20 20 42-56" fill="none" stroke="#1769e0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(485 270)">
+    <rect width="550" height="360" rx="26" fill="#f7fbff" stroke="#dce6f1" stroke-width="2"/>
+    <path d="M60 276h430" stroke="#dce6f1" stroke-width="2"/>
+    <path d="M60 220h430" stroke="#dce6f1" stroke-width="2"/>
+    <path d="M60 164h430" stroke="#dce6f1" stroke-width="2"/>
+    <path d="M60 108h430" stroke="#dce6f1" stroke-width="2"/>
+    <path d="M72 260c70-90 126-112 198-78 72 34 114 8 196-88" fill="none" stroke="#1769e0" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="72" cy="260" r="12" fill="#1769e0"/>
+    <circle cx="270" cy="182" r="12" fill="#1769e0"/>
+    <circle cx="466" cy="94" r="12" fill="#1769e0"/>
+  </g>
+  <rect x="165" y="690" width="870" height="2" fill="#dce6f1"/>
+  <rect x="165" y="730" width="190" height="20" rx="10" fill="#1769e0"/>
+  <rect x="395" y="730" width="160" height="20" rx="10" fill="#9cb7d8"/>
+  <rect x="595" y="730" width="230" height="20" rx="10" fill="#9cb7d8"/>
+</svg>
